@@ -31,3 +31,4 @@ go run nama_file.go
 - screenshot berupa 1 file baik itu berupa png, jpg, atau jpeg
 - format pengumpulan file berupa NAMA_NIM_Modul X, contoh WINDAH_123456789_Modul 1.png
 - batas pengumpulan hingga 1 jam sebelum pertemuan selanjutnya
+- upload screenshot menggunakan fitur `Add file`, kemudian pilih `Upload files`
